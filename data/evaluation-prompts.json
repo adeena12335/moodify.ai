@@ -1,0 +1,324 @@
+[
+  {
+    "id": "P01",
+    "prompt": "Give me energetic English music for running.",
+    "expected": {
+      "moods": [
+        "energetic"
+      ],
+      "languages": [
+        "English"
+      ],
+      "activities": [
+        "running"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P02",
+    "prompt": "Soft Hindi songs for a rainy evening.",
+    "expected": {
+      "moods": [
+        "peaceful",
+        "melancholic"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "activities": [
+        "evening"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P03",
+    "prompt": "Happy English pop songs for a road trip.",
+    "expected": {
+      "moods": [
+        "happy",
+        "uplifting"
+      ],
+      "languages": [
+        "English"
+      ],
+      "genres": [
+        "pop"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P04",
+    "prompt": "Low-key indie music to help me code.",
+    "expected": {
+      "moods": [
+        "focused",
+        "peaceful"
+      ],
+      "genres": [
+        "indie pop",
+        "lo-fi"
+      ],
+      "activities": [
+        "coding"
+      ],
+      "popularity": "low"
+    }
+  },
+  {
+    "id": "P05",
+    "prompt": "Popular Bollywood songs for a house party.",
+    "expected": {
+      "languages": [
+        "Hindi"
+      ],
+      "activities": [
+        "dance"
+      ],
+      "popularity": "high"
+    }
+  },
+  {
+    "id": "P06",
+    "prompt": "Melancholic English acoustic songs after a breakup.",
+    "expected": {
+      "moods": [
+        "melancholic"
+      ],
+      "languages": [
+        "English"
+      ],
+      "genres": [
+        "acoustic"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P07",
+    "prompt": "Uplifting Hindi songs for my morning commute.",
+    "expected": {
+      "moods": [
+        "uplifting"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "activities": [
+        "driving"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P08",
+    "prompt": "Dreamy English tracks for reading on a quiet night.",
+    "expected": {
+      "moods": [
+        "dreamy",
+        "peaceful"
+      ],
+      "languages": [
+        "English"
+      ],
+      "activities": [
+        "reading"
+      ],
+      "popularity": "low"
+    }
+  },
+  {
+    "id": "P09",
+    "prompt": "Folk and acoustic Hindi songs for a long train journey.",
+    "expected": {
+      "languages": [
+        "Hindi"
+      ],
+      "genres": [
+        "folk",
+        "acoustic"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "popularity": "low"
+    }
+  },
+  {
+    "id": "P10",
+    "prompt": "English songs like a warm summer afternoon.",
+    "expected": {
+      "languages": [
+        "English"
+      ],
+      "moods": [
+        "happy",
+        "uplifting"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P11",
+    "prompt": "Focus music with no distracting lyrics for coding.",
+    "expected": {
+      "moods": [
+        "focused",
+        "peaceful"
+      ],
+      "activities": [
+        "coding"
+      ],
+      "popularity": "low"
+    }
+  },
+  {
+    "id": "P12",
+    "prompt": "Hindi heartbreak songs that feel cinematic.",
+    "expected": {
+      "languages": [
+        "Hindi"
+      ],
+      "moods": [
+        "melancholic"
+      ],
+      "genres": [
+        "film soundtrack"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P13",
+    "prompt": "Cheerful English music for cooking with friends.",
+    "expected": {
+      "languages": [
+        "English"
+      ],
+      "moods": [
+        "happy"
+      ],
+      "activities": [
+        "walking"
+      ],
+      "popularity": "medium"
+    }
+  },
+  {
+    "id": "P14",
+    "prompt": "Trending Hindi and English pop songs for a celebration.",
+    "expected": {
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "genres": [
+        "pop"
+      ],
+      "moods": [
+        "happy"
+      ],
+      "popularity": "high"
+    }
+  },
+  {
+    "prompt": "Peaceful Hindi songs for studying at midnight, avoid popular hits.",
+    "expected": {
+      "moods": [
+        "peaceful",
+        "focused"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "activities": [
+        "studying"
+      ],
+      "popularity": "low"
+    },
+    "id": "P15"
+  },
+  {
+    "prompt": "Romantic English songs for a quiet date night.",
+    "expected": {
+      "moods": [
+        "romantic"
+      ],
+      "languages": [
+        "English"
+      ],
+      "activities": [
+        "date night"
+      ],
+      "popularity": "medium"
+    },
+    "id": "P16"
+  },
+  {
+    "prompt": "Calm English music for meditation.",
+    "expected": {
+      "moods": [
+        "peaceful"
+      ],
+      "languages": [
+        "English"
+      ],
+      "activities": [
+        "meditation"
+      ],
+      "popularity": "low"
+    },
+    "id": "P17"
+  },
+  {
+    "prompt": "High-energy Hindi dance songs for a workout.",
+    "expected": {
+      "moods": [
+        "energetic"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "activities": [
+        "workout",
+        "dance"
+      ],
+      "popularity": "high"
+    },
+    "id": "P18"
+  },
+  {
+    "prompt": "Avoid mainstream music; find hidden romantic Hindi gems.",
+    "expected": {
+      "languages": [
+        "Hindi"
+      ],
+      "moods": [
+        "romantic"
+      ],
+      "popularity": "low"
+    },
+    "id": "P19"
+  },
+  {
+    "prompt": "Slow English songs to listen to before sleep.",
+    "expected": {
+      "languages": [
+        "English"
+      ],
+      "moods": [
+        "peaceful"
+      ],
+      "activities": [
+        "sleeping"
+      ],
+      "popularity": "low"
+    },
+    "id": "P20"
+  }
+]

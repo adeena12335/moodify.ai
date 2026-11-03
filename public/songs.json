@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "MUS001",
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 71,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS002",
+    "title": "Agar Tum Saath Ho",
+    "artist": "Shreya Ghoshal",
+    "language": "Hindi",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 84,
+    "tags": [
+      "uplifting",
+      "folk",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS003",
+    "title": "Kabira",
+    "artist": "A.R. Rahman",
+    "language": "Hindi",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 37,
+    "tags": [
+      "dreamy",
+      "rock",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS004",
+    "title": "Ilahi",
+    "artist": "Pritam",
+    "language": "Hindi",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 50,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS005",
+    "title": "Phir Le Aaya Dil",
+    "artist": "Mohit Chauhan",
+    "language": "Hindi",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 63,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS006",
+    "title": "Raabta",
+    "artist": "Sunidhi Chauhan",
+    "language": "Hindi",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 76,
+    "tags": [
+      "focused",
+      "acoustic",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS007",
+    "title": "Iktara",
+    "artist": "Vishal Dadlani",
+    "language": "Hindi",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 89,
+    "tags": [
+      "happy",
+      "pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS008",
+    "title": "Kun Faya Kun",
+    "artist": "Prateek Kuhad",
+    "language": "Hindi",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 42,
+    "tags": [
+      "energetic",
+      "alternative",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS009",
+    "title": "Hawayein",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 55,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS010",
+    "title": "Apna Bana Le",
+    "artist": "Jubin Nautiyal",
+    "language": "Hindi",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 68,
+    "tags": [
+      "uplifting",
+      "folk",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS011",
+    "title": "Samjhawan",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 81,
+    "tags": [
+      "dreamy",
+      "rock",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS012",
+    "title": "Khaabon Ke Parinday",
+    "artist": "Shreya Ghoshal",
+    "language": "Hindi",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 94,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS013",
+    "title": "Safarnama",
+    "artist": "A.R. Rahman",
+    "language": "Hindi",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 47,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS014",
+    "title": "Aaj Jaane Ki Zid Na Karo",
+    "artist": "Pritam",
+    "language": "Hindi",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 60,
+    "tags": [
+      "focused",
+      "acoustic",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS015",
+    "title": "Kho Gaye Hum Kahan",
+    "artist": "Mohit Chauhan",
+    "language": "Hindi",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 73,
+    "tags": [
+      "happy",
+      "pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS016",
+    "title": "Kasoor",
+    "artist": "Sunidhi Chauhan",
+    "language": "Hindi",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 86,
+    "tags": [
+      "energetic",
+      "alternative",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS017",
+    "title": "Gul",
+    "artist": "Vishal Dadlani",
+    "language": "Hindi",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 39,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS018",
+    "title": "Baarishein",
+    "artist": "Prateek Kuhad",
+    "language": "Hindi",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 52,
+    "tags": [
+      "uplifting",
+      "folk",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS019",
+    "title": "Choo Lo",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 65,
+    "tags": [
+      "dreamy",
+      "rock",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS020",
+    "title": "Alag Aasmaan",
+    "artist": "Jubin Nautiyal",
+    "language": "Hindi",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 78,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS021",
+    "title": "Chaand Baaliyan",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 91,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS022",
+    "title": "Heeriye",
+    "artist": "Shreya Ghoshal",
+    "language": "Hindi",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 44,
+    "tags": [
+      "focused",
+      "acoustic",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS023",
+    "title": "Mast Magan",
+    "artist": "A.R. Rahman",
+    "language": "Hindi",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 57,
+    "tags": [
+      "happy",
+      "pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS024",
+    "title": "Shayad",
+    "artist": "Pritam",
+    "language": "Hindi",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 70,
+    "tags": [
+      "energetic",
+      "alternative",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS025",
+    "title": "Muskurane",
+    "artist": "Mohit Chauhan",
+    "language": "Hindi",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 83,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS026",
+    "title": "Tujh Mein Rab Dikhta Hai",
+    "artist": "Sunidhi Chauhan",
+    "language": "Hindi",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 36,
+    "tags": [
+      "uplifting",
+      "folk",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS027",
+    "title": "Pehla Nasha",
+    "artist": "Vishal Dadlani",
+    "language": "Hindi",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 49,
+    "tags": [
+      "dreamy",
+      "rock",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS028",
+    "title": "Love You Zindagi",
+    "artist": "Prateek Kuhad",
+    "language": "Hindi",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 62,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS029",
+    "title": "Zinda",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 75,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS030",
+    "title": "Aashiyan",
+    "artist": "Jubin Nautiyal",
+    "language": "Hindi",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 88,
+    "tags": [
+      "focused",
+      "acoustic",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS031",
+    "title": "Jashn-E-Bahaara",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 41,
+    "tags": [
+      "happy",
+      "pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS032",
+    "title": "Tu Chahiye",
+    "artist": "Shreya Ghoshal",
+    "language": "Hindi",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 54,
+    "tags": [
+      "energetic",
+      "alternative",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS033",
+    "title": "Nazm Nazm",
+    "artist": "A.R. Rahman",
+    "language": "Hindi",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 67,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS034",
+    "title": "Maan Meri Jaan",
+    "artist": "Pritam",
+    "language": "Hindi",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 80,
+    "tags": [
+      "uplifting",
+      "folk",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS035",
+    "title": "Ranjha",
+    "artist": "Mohit Chauhan",
+    "language": "Hindi",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 93,
+    "tags": [
+      "dreamy",
+      "rock",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS036",
+    "title": "Tera Ban Jaunga",
+    "artist": "Sunidhi Chauhan",
+    "language": "Hindi",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 46,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS037",
+    "title": "Aabaad Barbaad",
+    "artist": "Vishal Dadlani",
+    "language": "Hindi",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 59,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS038",
+    "title": "Tere Vaaste",
+    "artist": "Prateek Kuhad",
+    "language": "Hindi",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 72,
+    "tags": [
+      "focused",
+      "acoustic",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS039",
+    "title": "Kyun",
+    "artist": "Anuv Jain",
+    "language": "Hindi",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 85,
+    "tags": [
+      "happy",
+      "pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS040",
+    "title": "Dil Diyan Gallan",
+    "artist": "Jubin Nautiyal",
+    "language": "Hindi",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 38,
+    "tags": [
+      "energetic",
+      "alternative",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS041",
+    "title": "The Scientist",
+    "artist": "Adele",
+    "language": "English",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 85,
+    "tags": [
+      "dreamy",
+      "rock",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS042",
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "language": "English",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 38,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS043",
+    "title": "Fix You",
+    "artist": "Taylor Swift",
+    "language": "English",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 51,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS044",
+    "title": "Viva La Vida",
+    "artist": "Ed Sheeran",
+    "language": "English",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 64,
+    "tags": [
+      "focused",
+      "acoustic",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS045",
+    "title": "A Sky Full of Stars",
+    "artist": "Billie Eilish",
+    "language": "English",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 77,
+    "tags": [
+      "happy",
+      "pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS046",
+    "title": "Perfect",
+    "artist": "The Weeknd",
+    "language": "English",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 90,
+    "tags": [
+      "energetic",
+      "alternative",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS047",
+    "title": "Photograph",
+    "artist": "Lorde",
+    "language": "English",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 43,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS048",
+    "title": "Thinking Out Loud",
+    "artist": "Hozier",
+    "language": "English",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 56,
+    "tags": [
+      "uplifting",
+      "folk",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS049",
+    "title": "Easy On Me",
+    "artist": "Bruno Mars",
+    "language": "English",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 69,
+    "tags": [
+      "dreamy",
+      "rock",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS050",
+    "title": "Someone Like You",
+    "artist": "Norah Jones",
+    "language": "English",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 82,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS051",
+    "title": "Cardigan",
+    "artist": "Adele",
+    "language": "English",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 95,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS052",
+    "title": "August",
+    "artist": "Coldplay",
+    "language": "English",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 48,
+    "tags": [
+      "focused",
+      "acoustic",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS053",
+    "title": "Daylight",
+    "artist": "Taylor Swift",
+    "language": "English",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 61,
+    "tags": [
+      "happy",
+      "pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS054",
+    "title": "Ocean Eyes",
+    "artist": "Ed Sheeran",
+    "language": "English",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 74,
+    "tags": [
+      "energetic",
+      "alternative",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS055",
+    "title": "Lovely",
+    "artist": "Billie Eilish",
+    "language": "English",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 87,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS056",
+    "title": "Happier Than Ever",
+    "artist": "The Weeknd",
+    "language": "English",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 40,
+    "tags": [
+      "uplifting",
+      "folk",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS057",
+    "title": "Blinding Lights",
+    "artist": "Lorde",
+    "language": "English",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 53,
+    "tags": [
+      "dreamy",
+      "rock",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS058",
+    "title": "Save Your Tears",
+    "artist": "Hozier",
+    "language": "English",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 66,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS059",
+    "title": "Until I Found You",
+    "artist": "Bruno Mars",
+    "language": "English",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 79,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS060",
+    "title": "As It Was",
+    "artist": "Norah Jones",
+    "language": "English",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 92,
+    "tags": [
+      "focused",
+      "acoustic",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS061",
+    "title": "Ribs",
+    "artist": "Adele",
+    "language": "English",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 45,
+    "tags": [
+      "happy",
+      "pop",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS062",
+    "title": "Solar Power",
+    "artist": "Coldplay",
+    "language": "English",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 58,
+    "tags": [
+      "energetic",
+      "alternative",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS063",
+    "title": "Cherry Wine",
+    "artist": "Taylor Swift",
+    "language": "English",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 71,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS064",
+    "title": "Take Me To Church",
+    "artist": "Ed Sheeran",
+    "language": "English",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 84,
+    "tags": [
+      "uplifting",
+      "folk",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS065",
+    "title": "Like Real People Do",
+    "artist": "Billie Eilish",
+    "language": "English",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 37,
+    "tags": [
+      "dreamy",
+      "rock",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS066",
+    "title": "Golden Hour",
+    "artist": "The Weeknd",
+    "language": "English",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 50,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS067",
+    "title": "I Like Me Better",
+    "artist": "Lorde",
+    "language": "English",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 63,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS068",
+    "title": "Put Your Records On",
+    "artist": "Hozier",
+    "language": "English",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 76,
+    "tags": [
+      "focused",
+      "acoustic",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS069",
+    "title": "Dreams",
+    "artist": "Bruno Mars",
+    "language": "English",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 89,
+    "tags": [
+      "happy",
+      "pop",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS070",
+    "title": "Slow Dancing in the Dark",
+    "artist": "Norah Jones",
+    "language": "English",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 42,
+    "tags": [
+      "energetic",
+      "alternative",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS071",
+    "title": "Best Part",
+    "artist": "Adele",
+    "language": "English",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 55,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS072",
+    "title": "Adore You",
+    "artist": "Coldplay",
+    "language": "English",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 68,
+    "tags": [
+      "uplifting",
+      "folk",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS073",
+    "title": "Gravity",
+    "artist": "Taylor Swift",
+    "language": "English",
+    "genre": "rock",
+    "mood": "dreamy",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 81,
+    "tags": [
+      "dreamy",
+      "rock",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS074",
+    "title": "Come Away With Me",
+    "artist": "Ed Sheeran",
+    "language": "English",
+    "genre": "indie pop",
+    "mood": "peaceful",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 94,
+    "tags": [
+      "peaceful",
+      "indie pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS075",
+    "title": "Don’t Know Why",
+    "artist": "Billie Eilish",
+    "language": "English",
+    "genre": "film soundtrack",
+    "mood": "romantic",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 47,
+    "tags": [
+      "romantic",
+      "film soundtrack",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS076",
+    "title": "Good Days",
+    "artist": "The Weeknd",
+    "language": "English",
+    "genre": "acoustic",
+    "mood": "focused",
+    "activities": [
+      "studying",
+      "coding",
+      "reading"
+    ],
+    "popularity": 60,
+    "tags": [
+      "focused",
+      "acoustic",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS077",
+    "title": "Electric Feel",
+    "artist": "Lorde",
+    "language": "English",
+    "genre": "pop",
+    "mood": "happy",
+    "activities": [
+      "relaxing",
+      "sleeping",
+      "meditation"
+    ],
+    "popularity": 73,
+    "tags": [
+      "happy",
+      "pop",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS078",
+    "title": "Midnight City",
+    "artist": "Hozier",
+    "language": "English",
+    "genre": "alternative",
+    "mood": "energetic",
+    "activities": [
+      "driving",
+      "travel",
+      "walking"
+    ],
+    "popularity": 86,
+    "tags": [
+      "energetic",
+      "alternative",
+      "rainy"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS079",
+    "title": "Home",
+    "artist": "Bruno Mars",
+    "language": "English",
+    "genre": "lo-fi",
+    "mood": "melancholic",
+    "activities": [
+      "workout",
+      "running",
+      "dance"
+    ],
+    "popularity": 39,
+    "tags": [
+      "melancholic",
+      "lo-fi",
+      "feel good"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  },
+  {
+    "id": "MUS080",
+    "title": "Bloom",
+    "artist": "Norah Jones",
+    "language": "English",
+    "genre": "folk",
+    "mood": "uplifting",
+    "activities": [
+      "evening",
+      "date night",
+      "relaxing"
+    ],
+    "popularity": 52,
+    "tags": [
+      "uplifting",
+      "folk",
+      "late night"
+    ],
+    "metadata": "Real song title and artist; catalogue attributes are Moodify demo tags."
+  }
+]

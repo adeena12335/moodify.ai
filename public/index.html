@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Moodify AI - language-steerable music discovery">
+  <title>Moodify AI | Find your next feeling</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <main class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#home"><span class="brand-mark">✦</span><span>Moodify<span class="brand-ai"> AI</span></span></a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a class="nav-link active" href="#home" data-section="home"><span>⌂</span> Home</a>
+        <a class="nav-link" href="#favourites" data-section="favourites"><span>♡</span> Favourites <b id="favourite-count">0</b></a>
+        <a class="nav-link" href="#history" data-section="history"><span>◷</span> Listening history</a>
+      </nav>
+      <div class="sidebar-note"><span class="spark">✧</span><strong>Follow your feeling</strong><p>Describe a moment. We’ll find the soundtrack.</p></div>
+      <p class="sidebar-footer">Local catalogue · Gemini assisted</p>
+    </aside>
+    <section class="content">
+      <header class="topbar"><div class="mobile-brand">Moodify <span>AI</span></div><div class="top-actions"><button id="room-button" class="live-button"><span class="live-dot"></span> Live room</button><div class="status-pill"><span class="status-dot"></span> Discovery engine ready</div></div></header>
+      <div id="toast" class="toast" role="status"></div>
+      <section id="home-section" class="page-section">
+        <div class="hero">
+          <div class="eyebrow">AI MUSIC DISCOVERY</div>
+          <h1>Find music for<br><em>this exact moment.</em></h1>
+          <p>Tell us what you’re feeling, doing, or avoiding. Moodify turns everyday language into a personal listening session.</p>
+          <form id="search-form" class="search-panel">
+            <label for="music-query" class="sr-only">Describe your music preference</label>
+            <textarea id="music-query" rows="2" placeholder="e.g. Peaceful Hindi and English songs for studying at 2 AM. Avoid popular songs." required></textarea>
+            <div class="search-actions"><span class="tip">Try mood + language + activity + preference</span><button class="primary-button" type="submit"><span>Discover music</span><span class="button-arrow">→</span></button></div>
+          </form>
+          <div class="example-prompts"><span>Try:</span><button type="button" class="prompt-chip">Soft Hindi songs for a rainy evening</button><button type="button" class="prompt-chip">Energetic English music for running</button><button type="button" class="prompt-chip">Hidden Hindi indie gems</button></div>
+        </div>
+        <div id="fallback-banner" class="notice hidden"><span>⚡</span><span><strong>Fallback mode active.</strong> Gemini is unavailable, so Moodify is using local keyword understanding.</span></div>
+        <div class="section-heading"><div><div class="eyebrow">YOUR SESSION</div><h2 id="results-title">Recommended for you</h2></div><div class="mode-switch"><button class="mode-button active" data-mode="familiar">Familiar</button><button class="mode-button" data-mode="discover">Discover</button></div></div>
+        <div id="preference-summary" class="preference-summary hidden"></div>
+        <div id="mood-dna" class="mood-dna hidden">
+          <div class="dna-heading"><div><div class="eyebrow">YOUR LISTENING FINGERPRINT</div><h2 id="dna-title">Mood DNA</h2><p id="dna-description"></p></div><div class="dna-orbit"><span></span><i></i><b>✦</b></div></div>
+          <div class="dna-bars" id="dna-bars"></div>
+          <div class="dna-footer"><span id="dna-recipe"></span><span class="dna-live"><span></span> Personalised session</span></div>
+        </div>
+        <div id="loading" class="loading hidden"><span class="loader"></span><span>Reading between the lines...</span></div>
+        <div id="recommendations" class="song-grid"></div>
+        <div id="empty-home" class="empty-state"><div class="empty-icon">◖</div><h3>Your next listening session starts here</h3><p>Describe a mood, a memory, or a moment above to get five tailored recommendations.</p></div>
+      </section>
+      <section id="favourites-section" class="page-section hidden"><div class="eyebrow">YOUR LIBRARY</div><h1>Favourites</h1><p class="page-intro">Songs you want to return to, all in one place.</p><div id="favourites-list" class="song-grid"></div><div id="empty-favourites" class="empty-state"><div class="empty-icon">♡</div><h3>No favourites yet</h3><p>Tap the heart on any recommendation to save it here.</p></div></section>
+      <section id="history-section" class="page-section hidden"><div class="eyebrow">YOUR JOURNEY</div><h1>Listening history</h1><p class="page-intro">A trail of the music you’ve explored with Moodify.</p><div id="history-list" class="song-grid"></div><div id="empty-history" class="empty-state"><div class="empty-icon">◷</div><h3>Your history is empty</h3><p>Recommendations you open will appear here.</p></div></section>
+    </section>
+  </main>
+  <div id="now-playing" class="now-playing hidden"><div class="playing-wave"><i></i><i></i><i></i></div><div><small>NOW PLAYING</small><strong id="playing-title"></strong><span id="playing-artist"></span></div><button id="playing-open">Open in Spotify</button><button id="playing-stop" class="stop-button">■ Stop</button></div>
+  <dialog id="room-dialog" class="room-dialog"><button class="dialog-close" id="room-close">×</button><div class="eyebrow">LISTEN TOGETHER</div><h2>Make a room for the moment.</h2><p>Share a live room code and let everyone see what is playing in real time.</p><div id="room-create"><input id="room-name" maxlength="30" placeholder="Your name"><button id="create-room" class="primary-button">Create live room →</button><div class="room-join"><input id="room-code" maxlength="6" placeholder="ROOM CODE"><input id="guest-name" maxlength="30" placeholder="Your name"><button id="join-room" class="icon-button">Join</button></div></div><div id="room-active" class="hidden"><div class="room-code-display"><small>SHARE THIS CODE</small><strong id="active-room-code"></strong><button id="copy-room" class="icon-button">Copy</button></div><div class="room-members" id="room-members"></div><p class="room-now" id="room-now">No song is playing yet. Choose a song below.</p></div></dialog>
+  <script src="/app.js"></script>
+</body>
+</html>
